@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://i.ibb.co/ZSKxPjx/chef1.png",
+    "chef_name": "John Smith",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 1000
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://i.ibb.co/4VJf5vJ/chef2.png",
+    "chef_name": "Jane Doe",
+    "years_of_experience": 5,
+    "number_of_recipes": 30,
+    "likes": 500
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://i.ibb.co/ctp525M/chef3.png",
+    "chef_name": "Robert Johnson",
+    "years_of_experience": 15,
+    "number_of_recipes": 100,
+    "likes": 2000
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://i.ibb.co/LCLQY7f/chef4.png",
+    "chef_name": "Lisa Nguyen",
+    "years_of_experience": 8,
+    "number_of_recipes": 70,
+    "likes": 800
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/HT82gDP/chef5.png",
+    "chef_name": "Michael Brown",
+    "years_of_experience": 12,
+    "number_of_recipes": 80,
+    "likes": 1500
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/BBk53sJ/chef6.png",
+    "chef_name": "Avery Taylor",
+    "years_of_experience": 3,
+    "number_of_recipes": 20,
+    "likes": 100
+  }
+]
